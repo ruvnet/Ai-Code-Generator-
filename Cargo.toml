@@ -1,5 +1,5 @@
 [package]
-name = "my-project"
+name = "ai code generator"
 version = "0.1.0"
 authors = ["runner"]
 edition = "2021"
